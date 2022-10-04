@@ -1,5 +1,6 @@
 body {
   background-color: mediumpurple;
+  text-align: center;
 }
 
 #transplant {
@@ -14,13 +15,17 @@ body {
 
 #housekeeping {
   font-family: 'PT Serif', serif;
-  border: solid darkseagreen 1px;
+  border: solid darkseagreen 3px;
 }
 
 article h3 {
-  color: coral;
+  color: rgb(34, 86, 116);
 }
 
-.dates-worked {
+time {
   font-style: italic;
+}
+
+section {
+  margin: 5px;
 }
