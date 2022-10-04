@@ -1,3 +1,26 @@
 body {
   background-color: mediumpurple;
 }
+
+#transplant {
+  font-family: 'Inter Tight', sans-serif;
+  border: dashed darkblue 2px;
+}
+
+#access-center {
+  font-family: 'Merriweather', serif;
+  border: dotted darkorange 4px;
+}
+
+#housekeeping {
+  font-family: 'PT Serif', serif;
+  border: solid darkseagreen 1px;
+}
+
+article h3 {
+  color: coral;
+}
+
+.dates-worked {
+  font-style: italic;
+}
